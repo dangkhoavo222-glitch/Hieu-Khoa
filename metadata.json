@@ -1,0 +1,6 @@
+{
+  "name": "COCONA - Nước Dừa Tươi Bến Tre",
+  "description": "COCONA - Vị tươi thuần khiết từ xứ dừa Bến Tre. Nước dừa tươi đóng chai vô trùng 100% tự nhiên, chuỗi lạnh khép kín 2°C - 8°C giao nhanh 2 giờ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
